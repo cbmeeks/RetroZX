@@ -1,0 +1,15 @@
+
+
+P0:P7		D0:D7	(Databus)
+
+
+
+
+Control Pins (Minimum?):
+CLK
+RESET
+M1
+MREQ
+IORQ
+RD
+WR
