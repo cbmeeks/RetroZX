@@ -43,7 +43,7 @@
                 • Left border width is user definable (right side auto-adjusts)
                   up to a limit.
                     TODO: 
-                      • Confirm timing issues with legacy software)
+                      • Confirm timing issues with legacy software
                       • Determine practical limits
                 • User definable flash delay
 
