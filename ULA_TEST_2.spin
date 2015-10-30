@@ -4,7 +4,7 @@ CON
     _XINFREQ                = 10_000_000 + 0000
 
 DAT
-    Screen  file "RoboCop.scr"
+    Screen  file "R-Type.scr"
  
 
 OBJ
@@ -16,7 +16,7 @@ PUB Start
   
   ' Uncomment the following code to see a simulated loading screen :-)
   
-
+{
     repeat
         repeat 2000
             ULA.SetBorderColor(2)
@@ -28,4 +28,4 @@ PUB Start
             waitcnt(20_000 + cnt)
             ULA.SetBorderColor(1)
             waitcnt(20_000 + cnt)
-         
+}        
