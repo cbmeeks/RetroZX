@@ -1,0 +1,13 @@
+bin/
+log/
+tmp/
+
+# SPIN compiled binaries
+*.binary
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Mac crap
+.DS_Store
